@@ -35,3 +35,8 @@ Interested in pursuing career internships and early adopters of Junior JavaScrip
 - HTML Academy       | Intensive online course "Basic HTML and CSS"
 
 - HTML Academy       | Intensive online course "Advanced HTML and CSS"   
+
+## Foreign language
+
+English (technical)
+
