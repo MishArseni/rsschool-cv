@@ -22,3 +22,16 @@ Interested in pursuing career internships and early adopters of Junior JavaScrip
 - .NET
 
 - MSSQL
+
+# Code examples
+
+**HTML5, CSS3, JavaScript, .NET:** [https://github.com/MishArseni/repapp](https://github.com/MishArseni/repapp)
+
+
+## Education
+
+- University | Belarusian State University of Informatics and Radioelectronics
+
+- HTML Academy       | Intensive online course "Basic HTML and CSS"
+
+- HTML Academy       | Intensive online course "Advanced HTML and CSS"   
